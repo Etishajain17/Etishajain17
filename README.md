@@ -23,8 +23,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Etishajain17&icon=4&color=9)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=Etishajain17&icon=4&color=9)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Etishajain17&label=1000&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Etishajain17/Etishajain17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
