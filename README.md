@@ -23,7 +23,7 @@ I love coding in Java :snake:. I work at [Estylo](https://estylo.in/) as a Pytho
 	<!-- <a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Etishajain17/Etishajain17/blob/main/footer.png"></div>
 
 
 <!-- ![alt text](./images/bottom.svg) -->
