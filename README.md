@@ -5,13 +5,13 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
 <div id="top"></div>
 <div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Etishajain17/Etishajain17/blob/main/header.png"></div>
-I love coding in Java :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love coding in Java :snake:. 
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using  java.
 - 🌱 I’m currently learning JavaScript required for Web Development.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+- :pencil2: I love drawing on free days.
+- :musical_note: I love to hear music.
 
 
 ### Let's Connect :coffee:
