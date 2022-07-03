@@ -1,8 +1,10 @@
 <!-- ![alt text](./images/top.svg) -->
 
 <!-- ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
+<div id="top"></div>
+<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Etishajain17/Etishajain17/blob/main/header.png"></div>
 I love coding in Java :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
 ⚡ Fun fact:
@@ -20,6 +22,9 @@ I love coding in Java :snake:. I work at [Estylo](https://estylo.in/) as a Pytho
 	<a href="https://www.instagram.com/etishajain03/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<!-- <a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
 </p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+
 
 <!-- ![alt text](./images/bottom.svg) -->
 <!--
