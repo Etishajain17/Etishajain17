@@ -13,6 +13,8 @@ I love coding in Java :snake:.
 - :pencil2: I love drawing on free days.
 - :musical_note: I love to hear music.
 
+[![](https://visitcount.itsvg.in/api?id=Etishajain17&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 ### Let's Connect :coffee:
 <p align="center">
@@ -28,6 +30,9 @@ I love coding in Java :snake:.
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Etishajain17/Etishajain17/blob/main/footer.png"></div>
 
+
+<!-- ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- ![alt text](./images/bottom.svg) -->
 <!--
@@ -46,11 +51,10 @@ I love coding in Java :snake:.
 
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Etishajain17&icon=4&color=9)](https://visitcount.itsvg.in)
+
 
 
 **Etishajain17/Etishajain17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
