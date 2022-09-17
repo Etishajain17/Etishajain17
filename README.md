@@ -4,7 +4,7 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
 <div id="top"></div>
-<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Etishajain17/Etishajain17/blob/main/header.png"></div>
+<!-- <div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Etishajain17/Etishajain17/blob/main/header.png"></div> -->
 I love coding in Java :snake:. 
 
 ⚡ Fun fact:
